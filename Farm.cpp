@@ -5,8 +5,7 @@
 #include <vector>
 using namespace std;
 
-int main()
-{
+int main() {
 	ifstream in("input.txt");
 	int L;
 	int T;

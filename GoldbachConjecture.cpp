@@ -12,8 +12,7 @@ bool judge_prime(int n) {
 		}
 	}
 }
-int main()
-{
+int main() {
 	ifstream in("input.txt");
 	int L;
 	int T;
